@@ -1,6 +1,6 @@
 # Donor Sentiment Enrichment Pipeline (AWS + OpenAI)
 
-This project demonstrates a lightweight, cloud-native data pipeline that leverages OpenAI to extract sentiment, donation likelihood, and message themes from raw donor communications. It showcases how AI can be integrated into modern data workflows to unlock valuable engagement insights for nonprofit organizations.
+This project demonstrates a lightweight, cloud-native data pipeline that leverages OpenAI to extract sentiment, donation likelihood, and message themes from raw donor communications. It showcases how AI can be integrated into modern data workflows to unlock valuable engagement insights for nonprofit organizations. For dependencies, you'll need your own OpenAI API Key and your own AWS Buckets.
 
 ---
 
