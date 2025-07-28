@@ -30,6 +30,7 @@ Amazon S3 (enriched CSV)
 (optional) AWS Glue
         ↓
 Amazon Redshift (queryable table)
+```
 
 ## AWS Setup
 
