@@ -30,3 +30,7 @@ Amazon S3 (enriched CSV)
 (optional) AWS Glue
         ↓
 Amazon Redshift (queryable table)
+
+## AWS Setup
+
+Attached to this repo is the script that is utilized in Lambda alongside the IAM Policies in order to interact with the tools in AWS for seemless integration.
